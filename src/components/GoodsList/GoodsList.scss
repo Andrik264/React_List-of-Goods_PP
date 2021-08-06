@@ -1,0 +1,49 @@
+.GoodsList {
+  box-sizing: border-box;
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(286px, 1fr));
+  grid-template-rows: repeat(auto-fill, 1fr);
+  gap: 20px;
+}
+
+.card {
+  display: flex;
+  overflow: hidden;
+  height: 100%;
+  // border: 7px solid rgb(131, 87, 87);
+  border: 6px outset #1c6ea4;
+  border-radius: 10px;
+
+  &:hover {
+    .card-img-top {
+      transform: scale(1.05);
+    }
+  }
+
+
+  &-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  &-priceAndQuantity {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &-buttons {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+.card-img-top {
+  display: block;
+  width: 100%;
+  height: 70%;
+  object-fit: contain;
+  transition: transform 1s;
+}
