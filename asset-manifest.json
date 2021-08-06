@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Inforce_test-project/static/css/main.2beec80a.chunk.css",
+    "main.js": "/Inforce_test-project/static/js/main.444be4d7.chunk.js",
+    "main.js.map": "/Inforce_test-project/static/js/main.444be4d7.chunk.js.map",
+    "runtime-main.js": "/Inforce_test-project/static/js/runtime-main.0825a00c.js",
+    "runtime-main.js.map": "/Inforce_test-project/static/js/runtime-main.0825a00c.js.map",
+    "static/js/2.7270f2e5.chunk.js": "/Inforce_test-project/static/js/2.7270f2e5.chunk.js",
+    "static/js/2.7270f2e5.chunk.js.map": "/Inforce_test-project/static/js/2.7270f2e5.chunk.js.map",
+    "index.html": "/Inforce_test-project/index.html",
+    "precache-manifest.b89d4868ec8d9f2e76aa99a73b094b97.js": "/Inforce_test-project/precache-manifest.b89d4868ec8d9f2e76aa99a73b094b97.js",
+    "service-worker.js": "/Inforce_test-project/service-worker.js",
+    "static/css/main.2beec80a.chunk.css.map": "/Inforce_test-project/static/css/main.2beec80a.chunk.css.map",
+    "static/js/2.7270f2e5.chunk.js.LICENSE.txt": "/Inforce_test-project/static/js/2.7270f2e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0825a00c.js",
+    "static/js/2.7270f2e5.chunk.js",
+    "static/css/main.2beec80a.chunk.css",
+    "static/js/main.444be4d7.chunk.js"
+  ]
+}
