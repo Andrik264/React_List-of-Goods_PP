@@ -2,7 +2,7 @@
 
 This project was written by React library, using SCSS and also with BEM technology.
 In this project were used localeStorage, promises, fetch, BEM, scss, React technologies.
-* [DEMO LINK](https://Andrik264.github.io/Inforce_test-project/)
+* [DEMO LINK](https://Andrik264.github.io/React_List-of-Goods_PP/)
 
 ## Description
 
